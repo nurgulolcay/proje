@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>2.öğretim ders</title>
+		<meta charset="utf-8"/>
+		<meta name="keywords" content="dpü,kütahya,dumlupınar"/>
+		<meta name="description" content="ilk html sayfam."/>
+	</head>
+	<body>
+		merhaba dünya <br>
+		kış geliyorr...
+		<p> kütahya dumlupınar üniversitesi</p>
+		<p>kütahya teknik bilimler myo </p>
+		<hr/> 
+		<!-- yorum satırıdır.-->
+		<h1>kütahya dumlupınar üniversitesi</h1>
+		<h2>kütahya dumlupınar üniversitesi</h2>
+		<h3>kütahya dumlupınar üniversitesi</h3>
+		<h4>kütahya dumlupınar üniversitesi</h4>
+		<h5>kütahya dumlupınar üniversitesi</h5>
+		<h6>kütahya dumlupınar üniversitesi</h6>
+		<ol>
+		<li>balıkesirspor</li>
+		<li>galatasaray</li>
+		<li>beşiktaş</li>
+		<li>fenerbahçe</li>
+		<li>trabzonspor</li>
+
+		</ol>
+		<ul>
+		<li>balıkesirspor</li>
+		<li>galatasaray</li>
+		<li>beşiktaş</li>
+		<li>fenerbahçe</li>
+		<li>trabzonspor</li>
+
+		</ul>
+	
+
+	</body>
+</html>
